@@ -273,7 +273,7 @@ We are more than just a platform—we are your trusted partner in managing healt
         </div>
         <div style={styles.founderCard}>
           <img src="/images/nk.jpg" alt="Founder" style={styles.founderImage} />
-          <h3 style={styles.founderName}>Nikhil Kumar Singh</h3>
+          <h3 style={styles.founderName}>Rohit Kumar</h3>
           <p style={styles.founderTitle}>Founder & CEO</p>
         </div>
       </div>
