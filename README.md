@@ -15,3 +15,4 @@ Integrated dashboard for managing appointments.
 Responsive, intuitive UI for seamless experience.
 
 MedicineConnect aims to simplify healthcare access and enhance the doctor-patient experience by leveraging technology for efficient healthcare management.
+# Medicine-Connect
